@@ -355,11 +355,12 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;
+  height: 100vh;
   background: url("../img/landingpage.jpeg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
+  margin-bottom: 70px;
   padding: 0;
 }
 
